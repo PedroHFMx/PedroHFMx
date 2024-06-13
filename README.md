@@ -15,6 +15,7 @@ Eu sou o Pedro Matos, estudante de Design Gráfico e Programação desde 2020. A
   <img align="center" alt="Pedro-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
   <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pedro-JPCompose" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
+  <img align="center" alt="Pedro-NextJS" height="35" width="40" src="https://media.dev.to/cdn-cgi/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiwcjrl1a5uysgjy9vei1.png">
   <img align="center" alt="Pedro-NextJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
 </div>
 
@@ -27,6 +28,7 @@ Eu sou o Pedro Matos, estudante de Design Gráfico e Programação desde 2020. A
   <img align="center" alt="Pedro-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Pedro-Flask" height="50" width="50" src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=FFFFFF">
   <img align="center" alt="Pedro-Mongoose" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg">
+  <img align="center" alt="Pedro-Mongoose" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
 </div>
 
 <div style="display: inline_block"><br>
