@@ -1,5 +1,5 @@
 <h1>Olá!</h1>
-Eu sou o Pedro Matos, estudante da programação desde 2020. Atualmente estou cursando o primeiro período de Engenharia de Software!
+Eu sou o Pedro Matos, estudante de programação desde 2020. Atualmente estou cursando o primeiro período de Engenharia de Software!
 
 <div style="display: inline_block"><br>
   <h2>Linguagens que domino</h2>
