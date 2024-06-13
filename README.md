@@ -25,6 +25,7 @@ Eu sou o Pedro Matos, estudante de Design Gráfico e Programação desde 2020. A
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Pedro-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
   <img align="center" alt="Pedro-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Pedro-Flask" height="50" width="50" src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=FFFFFF">
   <img align="center" alt="Pedro-Mongoose" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg">
 </div>
 
