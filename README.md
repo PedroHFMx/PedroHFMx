@@ -15,7 +15,7 @@ Eu sou o Pedro Matos, estudante de Design Gráfico e Programação desde 2020. A
   <img align="center" alt="Pedro-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
   <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pedro-JPCompose" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg">
-  <img align="center" alt="Pedro-NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Pedro-NextJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,13 +25,13 @@ Eu sou o Pedro Matos, estudante de Design Gráfico e Programação desde 2020. A
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Pedro-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
   <img align="center" alt="Pedro-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Pedro-Mongoose" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg">
+  <img align="center" alt="Pedro-Mongoose" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg">
 </div>
 
 <div style="display: inline_block"><br>
   <h2>Softwares de Design Gráfico que domino</h2>
-  <img align="center" alt="Pedro-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
-  <img align="center" alt="Pedro-Freepik" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
-  <img align="center" alt="Pedro-Freepik" height="40" width="40" src="https://img.icons8.com/color/48/adobe-indesign--v1.png">
-  <img align="center" alt="Pedro-Freepik" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img align="center" alt="Pedro-Photoshop" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
+  <img align="center" alt="Pedro-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="Pedro-InDesign" height="40" width="40" src="https://img.icons8.com/color/48/adobe-indesign--v1.png">
+  <img align="center" alt="Pedro-Figma" height="26" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 </div>
