@@ -25,7 +25,7 @@ Eu sou Pedro Matos, estudante de Design Gráfico e Programação desde 2020. Atu
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS
   <img align="center" alt="Pedro-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"> TailwindCSS
   <img align="center" alt="Pedro-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"> Firebase
-  <img align="center" alt="Pedro-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"> Node.JS
+  <img align="center" alt="Pedro-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"> Node.JS &nbsp;
   <img align="center" alt="Pedro-Flask" height="50" width="50" src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=FFFFFF">
   <img align="center" alt="Pedro-Mongoose" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg"> Mongoose
   <img align="center" alt="Pedro-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"> MongoDB
