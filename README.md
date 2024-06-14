@@ -34,7 +34,7 @@ Eu sou Pedro Matos, estudante de Design Gráfico e Programação desde 2020. Atu
 <div style="display: inline_block"><br>
   <h2>Softwares de Design Gráfico que domino</h2>
   <img align="center" alt="Pedro-Photoshop" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"> Photoshop
-  <img align="center" alt="Pedro-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"> Illustrator
-  <img align="center" alt="Pedro-InDesign" height="40" width="40" src="https://img.icons8.com/color/48/adobe-indesign--v1.png"> InDesign
+  <img align="center" alt="Pedro-Illustrator" height="40" width="44" src="https://img.icons8.com/?size=100&id=13631&format=png&color=000000"> Illustrator
+  <img align="center" alt="Pedro-InDesign" height="40" width="44" src="https://img.icons8.com/color/48/adobe-indesign--v1.png"> InDesign
   <img align="center" alt="Pedro-Figma" height="26" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"> Figma
 </div>
