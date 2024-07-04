@@ -20,7 +20,7 @@ Eu sou Pedro Matos, estudante de Design Gráfico e Programação desde 2020. Atu
 </div>
 
 <div style="display: inline_block"><br>
-  <h2>Também domino</h2>
+  <h2>Tecnologias que domino</h2>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS
   <img align="center" alt="Pedro-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"> TailwindCSS
