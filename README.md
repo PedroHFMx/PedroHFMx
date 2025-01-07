@@ -1,5 +1,5 @@
 <h1>Olá!</h1>
-Eu sou Pedro Matos, estudante de Design Gráfico e Programação. Atualmente estou cursando o primeiro período de Engenharia de Software!
+Eu sou Pedro Matos, estudante de Design Gráfico e Programação. Atualmente estou cursando Engenharia de Software!
 
 <div style="display: inline_block"><br>
   <h2>Linguagens que domino</h2>
