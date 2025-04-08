@@ -22,7 +22,7 @@ Eu sou Pedro Matos, amante de design e programação. Atualmente estou cursando 
 
 <div style="display: inline_block"><br>
   <h2>Tecnologias que domino</h2>
-  <img align="center" alt="Pedro-Unreal" height="40" width="40" src="https://img.icons8.com/ios_filled/200/FFFFFF/unreal-engine.png"> Unreal Engine/Blueprint
+  <img align="center" alt="Pedro-Unreal" height="40" width="40" src="https://img.icons8.com/ios_filled/200/FFFFFF/unreal-engine.png"> Unreal Engine / Blueprint
   <img align="center" alt="Pedro-Godot" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg"> Godot Engine
   <br><br>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML
